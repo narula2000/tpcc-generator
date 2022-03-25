@@ -23,10 +23,7 @@ With the following command you can create TPC-C input with _5_ warehouses. All f
 ```bash
 make
 mkdir my_tpcc_input
-./tpcc-generator 5 my_tpcc_input
-```
-
-Sample output:
+./tpcc-generator 5 my_tpcc_input ```
 ```
 I am loading TPCC data for 5 warehouses, hold on ..
 
